@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Ol%C3%A1,+eu+sou+o+Geosimar;Bem-vindo+ao+meu+perfil!;">
+Hi there 👋 I'm Geosimar G.
 
 - 🤖 Game developer since 2013
 - 👯 Various MLM systems since 2014
