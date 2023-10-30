@@ -3,7 +3,7 @@
 - 🤖 Game developer since 2013
 - 👯 Various MLM systems since 2014
 - 🔭 Blockchain developer since 2015
-- 💬 Development of cryptocurrencies tokens and smart contracts since 2017
+- 💬 Development of cryptocurrencies tokens and smart contracts since 2016
 - ⚡ Automated trading systems since 2018
 - 🌱 Financial and mobility systems in Flutter since 2021
 
