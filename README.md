@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Geosimar
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Ol%C3%A1,+eu+sou+o+Geosimar;Bem-vindo+ao+meu+perfil!;">
 - 🤖 Game developer since 2013
-- 👯 Various MLM systems since 2015
+- 👯 Various MLM systems since 2014
 - 🔭 Blockchain developer since 2015
 - 💬 Development of cryptocurrencies tokens and smart contracts since 2017
 - ⚡ Automated trading systems since 2018
