@@ -22,7 +22,8 @@
 ## Statistic:
 
 <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api?username=geosimarg&show_icons=true&theme=algolia"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosimarg&layout=compact&langs_count=7&theme=algolia"/>
+<!-- https://github-readme-stats.vercel.app/api?username=geosimarg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosimarg&layout=compact&langs_count=10&theme=algolia"/>
 
 
 <!--
