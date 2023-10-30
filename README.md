@@ -7,7 +7,7 @@
 - ⚡ Automated trading systems since 2018
 - 🌱 Financial and mobility systems in Flutter since 2021
 
-## Linguagens e ferramentas:
+## Languages and tools:
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,angular,vue,dart,flutter,ts,nodejs,solidity,regex,redis,sqlite,mongodb,mysql,postgres,php,symfony,laravel,tailwind,vite,lua,py,rust,cs,cpp,tensorflow,replit,aws,supabase,firebase,nginx,androidstudio,visualstudio,vscode,gamemakerstudio,unity,unreal,cloudflare,docker,git,github,gitlab,postman,blender,figma,bots&perline=7" />
@@ -19,7 +19,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geosimargomes/)
 <!-- [![Resume Badge](https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://gitconnected.com/victor-joness/resume) -->
 
-## Estatística:
+## Statistic:
 
 <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api?username=geosimarg&show_icons=true&theme=algolia"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geosimarg&layout=compact&langs_count=7&theme=algolia"/>
